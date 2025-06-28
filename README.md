@@ -1,6 +1,7 @@
 # Hi there, I'm Yonatan Wolde! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZFETLMEVG2lCr8p94tnFdTDM/user-ZDPI5v3W9iEk3XzM1egZItlo/img-Z4dG2ltapbnw3n2ApFhdRCH8.png?st=2024-06-28T09%3A48%3A50Z&se=2024-06-28T11%3A48%3A50Z&sp=r&sv=2021-08-06&sr=b&sig=H6S5OQ0P%2FbdUuA0SU9Ad20JjxkcfUdtGRJDduEiFVm8%3D)
+
 
 ## About Me 🚀
 
